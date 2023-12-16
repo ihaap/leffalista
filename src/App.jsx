@@ -441,7 +441,7 @@ const App = () => {
               onChange={(e) => setPassword(e.target.value)}
             />
             <Button variant="contained" color="primary" sx={{ width: '100%' }} onClick={signIn}>
-              Sign In
+              Kirjaudu
             </Button>
           </>
         )}
